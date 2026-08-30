@@ -55,12 +55,3 @@ The vehicle's logic is programmed in a loop to repeat actions based on sensor in
 | LEGO EV3 Medium Motor | 1 | Steering angle control for Ackerman mechanism. |
 | LEGO Technic Parts | Multiple | Beams, connectors, and axles for structural chassis. |
 | Rubber Wheels | 4 | Standard tires for movement on the track. |
-
-## 5. Engineering Journal
-
-* **Day 1:** We started building the robot with two large motors and 4 wheels (two connected to the motors and the others at the rear).
-* **Day 2:** We finished the base, but realized the robot would steer much better with a dedicated steering mechanism. We disassembled it to build the Ackerman steering system and positioned the medium motor.
-* **Day 3:** We successfully integrated the medium steering motor. Remembering that rules restrict drive motors to a single large motor, we redesigned the rear section to use a single drive motor and reinforced the chassis.
-* **Day 4:** We added the color and ultrasonic sensors at the front and began initial EV3 programming tests.
-* **Day 5:** Spent most of the day refining the code to prevent wall collisions. After multiple tests and adjustments to steering angles and timing, we achieved stable autonomous navigation.
-* **Day 6:** Final chassis inspection. Replaced the front wheel axles with slightly shorter ones to prevent interference with track obstacles.
