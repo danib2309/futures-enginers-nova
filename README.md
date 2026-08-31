@@ -12,7 +12,7 @@
 * **Category:** Future Engineers (WRO National)
 * **Team Members:**
   * **Daniel Barría:** In charge of mechanical design, chassis assembly, and Ackerman steering management.
-  * **Roque Samudio:** In charge of programming logic in LEGO MINDSTORMS EV3, sensor calibration, and technical documentation.
+  * **Roque Samudio:** In charge of programming logic in LEGO MINDSTORMS EV3.
 
 ### Team Presentation
 This is our first year participating in the Future Engineers category. We have prepared by analyzing the rules, overcoming design challenges, and iterating our prototype with the goal of learning as much as possible, applying real automotive engineering concepts, and doing our best on the track.
