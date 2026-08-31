@@ -55,3 +55,15 @@ The vehicle's logic is programmed in a loop to repeat actions based on sensor in
 | LEGO EV3 Medium Motor | 1 | Steering angle control for Ackerman mechanism. |
 | LEGO Technic Parts | Multiple | Beams, connectors, and axles for structural chassis. |
 | Rubber Wheels | 4 | Standard tires for movement on the track. |
+
+## 5. Engineering Journal
+
+Our team is made up of two people, Daniel Barría and Roque Samudio. We built our vehicle from scratch, taking inspiration from different robots we saw to figure out the best shape and design for a solid build. To keep the workload balanced and avoid putting all the weight on one person, my teammate Roque handled the programming, and I (Daniel) took charge of building the vehicle.
+
+During the first few days, we both reviewed the rules together to check the requirements. We researched steering systems and decided how it should work to get the first phase underway. Next, we brainstormed whether the shape should be elongated or compact. We ultimately chose an elongated design because a compact build would have been trickier—though not impossible—to assemble.
+
+Once those decisions were made, I (Daniel) got to work building the vehicle using LEGO EV3, attaching the color sensors, ultrasonic sensors, and motors. I had to disassemble it several times after catching mistakes that violated the competition rules; specifically, I had installed two large motors instead of one. Fortunately, I realized the error and fixed it.
+
+In the following days, after I finished the build, Roque started programming the vehicle. We ran into some trouble with the code when the robot kept crashing into obstacles. Finding a solution took us a while through trial and error, but we eventually solved it. We then ran test trials to see if any final tweaks were needed in the code or the physical design.
+
+Now that the testing and adjustments are complete, all that is left is to wait for the competition and see how the vehicle performs—hoping for a great run.
