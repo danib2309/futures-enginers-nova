@@ -9,7 +9,7 @@
 
 * **Team Name:** Nova
 * **Educational Institution:** Colegio Adventista Bilingüe de David
-* **Category:** Future Engineers (WRO National)
+* **Category:** Future Engineers
 * **Team Members:**
   * **Daniel Barría:** In charge of mechanical design, chassis assembly, and Ackerman steering management.
   * **Roque Samudio:** In charge of programming logic in LEGO MINDSTORMS EV3.
